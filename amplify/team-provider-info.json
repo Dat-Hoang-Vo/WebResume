@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-webresume-dev-21921-authRole",
+      "UnauthRoleArn": "arn:aws:iam::632275540500:role/amplify-webresume-dev-21921-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::632275540500:role/amplify-webresume-dev-21921-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-webresume-dev-21921-deployment",
+      "UnauthRoleName": "amplify-webresume-dev-21921-unauthRole",
+      "StackName": "amplify-webresume-dev-21921",
+      "StackId": "arn:aws:cloudformation:us-west-2:632275540500:stack/amplify-webresume-dev-21921/34d5b600-03f3-11ec-96c7-02a27a30f541",
+      "AmplifyAppId": "derg0wll06efh"
+    }
+  }
+}
